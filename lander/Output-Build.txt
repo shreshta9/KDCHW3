@@ -1,0 +1,26 @@
+﻿1>------ Build started: Project: animate-lander, Configuration: DebugDLL Win32 ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (obj/DebugDLL\) contains files shared from another project (animate.vcxproj, simulate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+1>parameters.c
+1>c:\users\shres\downloads\lander07\lander\parameters.c(130): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>c:\users\shres\downloads\lander07\lander\parameters.c(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>animate-lander.c
+1>c:\users\shres\downloads\lander07\lander\animate-lander.c(276): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>mrdplot.c
+1>c:\users\shres\downloads\lander07\useful\mrdplot\mrdplot.c(109): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>c:\users\shres\downloads\lander07\useful\mrdplot\mrdplot.c(110): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>c:\users\shres\downloads\lander07\useful\mrdplot\mrdplot.c(253): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>c:\users\shres\downloads\lander07\useful\mrdplot\mrdplot.c(265): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>c:\users\shres\downloads\lander07\useful\mrdplot\mrdplot.c(270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+1>c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+1>Generating Code...
+1>mrdplot.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+1>animate-lander.vcxproj -> C:\Users\shres\Downloads\lander07\lander\.\animate-lander.exe
+1>animate-lander.vcxproj -> .\animate-lander.pdb (Full PDB)
+1>Done building project "animate-lander.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

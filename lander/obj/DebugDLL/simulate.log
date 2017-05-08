@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (obj/DebugDLL\) contains files shared from another project (animate-lander.vcxproj, animate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  simulate.c
+c:\users\shres\downloads\lander07\lander\simulate.c(28): warning C4716: 'init_sim': must return a value
+c:\users\shres\downloads\lander07\lander\simulate.c(40): warning C4716: 'reinit_sim': must return a value
