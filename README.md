@@ -1,3 +1,3 @@
 # KDCHW3
 
-Navigate to lander07>useful>mrdplot to access the codes written 
+Navigate to useful>mrdplot to access the codes written 
